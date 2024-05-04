@@ -31,9 +31,11 @@ https://github.com/MayurBehere/QNA.Ai/assets/90575462/42643885-75d7-48b1-9fae-af
 
 **Server:** Node, Express
 
-**Database:** MongoDB, ChromaDB 
+**Database:** MongoDB, ChromaDB, Azure Storage 
 
-**Cloud Services:** Firebase Authentication, Azure Hosting
+**Cloud Services:** Firebase Authentication, Azure App Serive Hosting
+
+**Security:** Trivy for Vulnerability Scanning
 
 
 
